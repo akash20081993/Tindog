@@ -1,0 +1,75 @@
+#title{
+  background-color: #ff4c68;
+  color:white;
+}
+.first-text{
+  font-family: 'Montserrat-black', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight:900;
+}
+.container-fluid{
+  padding:3% 15%;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+.navbar-brand{
+  font-family: Ubuntu, sans-serif;
+  font-size:3rem;
+  font-weight: bold;
+}
+.navbar{
+  padding-bottom:50px;
+  padding-left:0;
+}
+.nav-item{
+  padding: 0 18px;
+  font-size:1.2rem;
+  font-family:Montserrat;
+}
+.btn{
+  margin-top:20px;
+}
+.btn-outline-light{
+  margin-left:20px;
+}
+
+.title-image{
+  width:60%;
+  transform:rotate(25deg);
+}
+.h3-text{
+  font-family: 'Montserrat-bold', sans-serif;
+  font-weight:1.5rem;
+  margin-top:10px;
+}
+.row2{
+  margin-top:140px;
+  padding-left:200px;
+  padding-right:200px;
+
+}
+.icon:hover{
+  color: red;
+
+}
+#features{
+  font-family: 'Montserrat-bold', sans-serif;
+
+}
+.colors{
+  color:grey;
+}
+.fluffy{
+  background-size: auto;
+  width: 346px;
+  height:483px;
+
+}
+.heart{
+  position: relative;
+  left: 130px;
+  top:241.5px;
+  size:300px;
+}
